@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987759073229",
+    "project_id": "korean-sweets",
+    "storage_bucket": "korean-sweets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987759073229:android:8af279747676218b5c5684",
+        "android_client_info": {
+          "package_name": "com.example.pr03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa9v-zlKUEHf4BP3WtHvRnCa2fHEtEdc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
